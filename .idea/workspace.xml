@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb430208-2e56-4c86-bd53-5d8a981fc1ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/seleniumprojectb22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumprojectb22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/PracticeUtils/SmartBearUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/TAsk3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/ZeroBankAllInOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/SeleniumProject/VechileProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/SeleniumProject/baseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Assign3ForTry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day12/DoubleClick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day12/DragAndDropTC17_RightClickTC18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/BankPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/Locator1WithBackAndForth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P1andP2TitleVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P3_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P4_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P5_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P_Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day4/P1_UrlPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/ClickButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/CybertekCheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/FindElements_ApplePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/FindElements_Apple_Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/findElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day6/SelectDate_OnDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day6/checkboxButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day8/T1_Smartbear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day8/T6_Review.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/SalesManagerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/AssignmentWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/BiniamDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/FinalAssignmentWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/FuelLogAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/SalesManager_NegativeResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/VyTrackExportGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/VyTrack_SalesManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day01/GroupWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day01/MoneyGamingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day03/adidasPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day04/finArtz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/OfficeHours/OH_day05/teenCrunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/DynamicLoad1Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/DynamicLoad7Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/LibraryLoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/TelerikPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webtable_properties_practice/DriverUsingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day10_webtable_properties_practice/Table_Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/ActionsPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/DriverUtilPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/JSExecutorPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/SingletonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day12_actions_upload_jsexecutor/UploadPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_actions_pom_design/ActionPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day13_actions_pom_design/PageObjectModelPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_pom_synchronization/ActionPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day14_pom_synchronization/WebDriverWaitPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_selenium_intro/BasicNavigations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_selenium_intro/Cybertek_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_selenium_intro/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day1_selenium_intro/Yahoo_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/P2_CybertekUrlVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/P3_NavigationAndTitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/P4_GoogleSearchVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/P5_EtsySearch_TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/P6_CybertekTitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/T1_ZeroBankHeaderTextVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day2_locators_getText_getAttribute/T2_ZeroBankAttributeVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day3_reviews_practice/F1_TitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day3_reviews_practice/F2_IncorrectLoginTitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day3_reviews_practice/F3_HeaderVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day3_reviews_practice/F4_AttributeValueVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day4_cssSelector_xpath/P1_cssSelector_Cybertek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day4_cssSelector_xpath/P3_cssSelector_AmazonTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day4_cssSelector_xpath/P6_xpath_MultipleButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day4_cssSelector_xpath/T5_WebordersLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day5_findElements_checkboxes/P0_FindElements_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_testing_into_dropdowns/P03_Apple_TAsk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_testing_into_dropdowns/P0_Checkbox_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day6_testing_into_dropdowns/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_alert_iframes_windows/AlertPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_alert_iframes_windows/DropdownPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_alert_iframes_windows/IFramePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day7_alert_iframes_windows/WindowPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_windows_javafaker/JavaFakerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_windows_javafaker/MultipleWindowsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_properties_browser_utils/LearningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_properties_browser_utils/P1_Library_Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9_properties_browser_utils/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/LibraryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/OfficeHoursUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TableUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/seleniumprojectb22.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/PracticeUtils/SmartBearUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/TAsk3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/Task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/Practice2WithGroup/ZeroBankAllInOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/SeleniumProject/VechileProject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Self_Practice/SeleniumProject/baseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Assign3ForTry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day12/DoubleClick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day12/DragAndDropTC17_RightClickTC18.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/BankPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/Locator1WithBackAndForth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P1andP2TitleVerify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P3_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P4_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P5_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day1_day2_day3/P_Facebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day4/P1_UrlPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/ClickButtons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/CybertekCheckBoxes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/FindElements_ApplePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/FindElements_Apple_Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day5/findElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day6/SelectDate_OnDropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day6/checkboxButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day8/T1_Smartbear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/Review_day8/T6_Review.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/SalesManagerPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/AssignmentWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/BiniamDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/FinalAssignmentWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/FuelLogAssignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/SalesManager_NegativeResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/VyTrackExportGrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/All_My_Practices/Zizu_Practice/VyTrack_GroupAssignment/VyTrack_SalesManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day01/GroupWork$VyTrack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day01/GroupWork.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day01/MoneyGamingTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day02/ZeroBankAccountActivity4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day03/adidasPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day04/finArtz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/OfficeHours/OH_day05/teenCrunch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/pages/LibraryLoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/base/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_webtable_properties_practice/DriverUsingExamples.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day10_webtable_properties_practice/Table_Tasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/ActionsPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/DriverUtilPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/JSExecutorPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/SingletonPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day12_actions_upload_jsexecutor/UploadPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_actions_pom_design/ActionPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day13_actions_pom_design/PageObjectModelPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_selenium_intro/BasicNavigations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_selenium_intro/Cybertek_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_selenium_intro/SeleniumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day1_selenium_intro/Yahoo_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/P2_CybertekUrlVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/P3_NavigationAndTitleVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/P4_GoogleSearchVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/P5_EtsySearch_TitleVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/P6_CybertekTitleVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/T1_ZeroBankHeaderTextVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day2_locators_getText_getAttribute/T2_ZeroBankAttributeVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_reviews_practice/F1_TitleVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_reviews_practice/F2_IncorrectLoginTitleVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_reviews_practice/F3_HeaderVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day3_reviews_practice/F4_AttributeValueVerification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_cssSelector_xpath/P1_cssSelector_Cybertek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_cssSelector_xpath/P3_cssSelector_AmazonTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_cssSelector_xpath/P6_xpath_MultipleButtons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day4_cssSelector_xpath/T5_WebordersLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day5_findElements_checkboxes/P0_FindElements_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_testing_into_dropdowns/P03_Apple_TAsk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_testing_into_dropdowns/P0_Checkbox_Practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day6_testing_into_dropdowns/TestNG_Intro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_alert_iframes_windows/AlertPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_alert_iframes_windows/DropdownPractices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_alert_iframes_windows/IFramePractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day7_alert_iframes_windows/WindowPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_windows_javafaker/JavaFakerPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day8_windows_javafaker/MultipleWindowsPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_properties_browser_utils/LearningProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_properties_browser_utils/P1_Library_Login.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/day9_properties_browser_utils/ReadingProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/Driver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/LibraryUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/OfficeHoursUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/TableUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/WebDriverFactory.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="116" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="seleniumprojectb22" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rudKQArZe2yNPDTcxT6v6n6efx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.P0_FindElements_Practice">
+    <configuration name="P0_FindElements_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day5_findElements_checkboxes.P0_FindElements_Practice" />
+      <module name="seleniumprojectb22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day5_findElements_checkboxes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VyTrackExportGrid.VyTrack_test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.OfficeHours.All_My_Practices.Zizu_Practice.VyTrack_GroupAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.OfficeHours.All_My_Practices.Zizu_Practice.VyTrack_GroupAssignment" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.OfficeHours.All_My_Practices.Zizu_Practice.VyTrack_GroupAssignment.VyTrackExportGrid" />
+      <option name="METHOD_NAME" value="VyTrack_test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverWaitPractice" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day14_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_pom_synchronization.WebDriverWaitPractice" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverWaitPractice.dynamic_loading_1_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day14_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_pom_synchronization.WebDriverWaitPractice" />
+      <option name="METHOD_NAME" value="dynamic_loading_1_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDriverWaitPractice.dynamic_loading_7_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectb22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day14_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_pom_synchronization.WebDriverWaitPractice" />
+      <option name="METHOD_NAME" value="dynamic_loading_7_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P0_FindElements_Practice" />
+        <item itemvalue="TestNG.VyTrackExportGrid.VyTrack_test1" />
+        <item itemvalue="TestNG.WebDriverWaitPractice" />
+        <item itemvalue="TestNG.WebDriverWaitPractice.dynamic_loading_1_test" />
+        <item itemvalue="TestNG.WebDriverWaitPractice.dynamic_loading_7_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb430208-2e56-4c86-bd53-5d8a981fc1ea" name="Default Changelist" comment="" />
+      <created>1619829862779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619829862779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="172" key="#Project_Structure" timestamp="1623287466153">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="95" y="172" key="#Project_Structure/0.25.1920.970@0.25.1920.970" timestamp="1623287466153" />
+    <state x="135" y="160" key="#TestNG_Intro" timestamp="1621799764152">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="135" y="160" key="#TestNG_Intro/0.25.1920.970@0.25.1920.970" timestamp="1621799764152" />
+    <state x="263" y="269" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1623284365841">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="263" y="269" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1920.970@0.25.1920.970" timestamp="1623284365840" />
+    <state x="107" y="127" width="700" height="824" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1623043152439">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state x="107" y="139" width="700" height="740" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1920.970@0.25.1920.970" timestamp="1622671353384" />
+    <state x="107" y="127" width="700" height="824" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1920.971@0.25.1920.971" timestamp="1623043152439" />
+    <state x="562" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1624732355885">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="562" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1920.970@0.25.1920.970" timestamp="1624732355885" />
+    <state x="96" y="109" key="CommitChangelistDialog2" timestamp="1624852977984">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="96" y="109" key="CommitChangelistDialog2/0.25.1920.970@0.25.1920.970" timestamp="1624852977984" />
+    <state width="973" height="172" key="GridCell.Tab.0.bottom" timestamp="1624853749857">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="1878" height="172" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624853675609" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1620265454493" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.989@0.23.1920.989" timestamp="1620276111856" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1620275976275" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1620274437954" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1620275441742" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.995@0.23.1920.995" timestamp="1620275888120" />
+    <state width="906" height="254" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1620275011288" />
+    <state width="973" height="172" key="GridCell.Tab.0.bottom/0.25.1920.970@0.25.1920.970" timestamp="1624853749857" />
+    <state width="900" height="127" key="GridCell.Tab.0.bottom/0.25.1920.971@0.25.1920.971" timestamp="1624498757412" />
+    <state width="919" height="152" key="GridCell.Tab.0.bottom/0.25.1920.973@0.25.1920.973" timestamp="1624135365034" />
+    <state width="919" height="152" key="GridCell.Tab.0.bottom/0.25.1920.975@0.25.1920.975" timestamp="1624135412121" />
+    <state width="893" height="240" key="GridCell.Tab.0.bottom/0.25.1920.977@0.25.1920.977" timestamp="1622516720435" />
+    <state width="919" height="152" key="GridCell.Tab.0.bottom/0.25.1920.978@0.25.1920.978" timestamp="1624135441849" />
+    <state width="858" height="229" key="GridCell.Tab.0.bottom/0.25.1920.979@0.25.1920.979" timestamp="1621913509992" />
+    <state width="919" height="152" key="GridCell.Tab.0.bottom/0.25.1920.981@0.25.1920.981" timestamp="1624135496280" />
+    <state width="886" height="221" key="GridCell.Tab.0.bottom/0.25.1920.982@0.25.1920.982" timestamp="1621646329548" />
+    <state width="858" height="229" key="GridCell.Tab.0.bottom/0.25.1920.984@0.25.1920.984" timestamp="1621914743820" />
+    <state width="973" height="172" key="GridCell.Tab.0.center" timestamp="1624853749857">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="1878" height="172" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624853675608" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1620265454492" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.989@0.23.1920.989" timestamp="1620276111855" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1620275976275" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1620274437953" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1620275441741" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.995@0.23.1920.995" timestamp="1620275888118" />
+    <state width="906" height="254" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1620275011287" />
+    <state width="973" height="172" key="GridCell.Tab.0.center/0.25.1920.970@0.25.1920.970" timestamp="1624853749857" />
+    <state width="900" height="127" key="GridCell.Tab.0.center/0.25.1920.971@0.25.1920.971" timestamp="1624498757411" />
+    <state width="919" height="152" key="GridCell.Tab.0.center/0.25.1920.973@0.25.1920.973" timestamp="1624135365033" />
+    <state width="919" height="152" key="GridCell.Tab.0.center/0.25.1920.975@0.25.1920.975" timestamp="1624135412120" />
+    <state width="893" height="240" key="GridCell.Tab.0.center/0.25.1920.977@0.25.1920.977" timestamp="1622516720435" />
+    <state width="919" height="152" key="GridCell.Tab.0.center/0.25.1920.978@0.25.1920.978" timestamp="1624135441848" />
+    <state width="858" height="229" key="GridCell.Tab.0.center/0.25.1920.979@0.25.1920.979" timestamp="1621913509992" />
+    <state width="919" height="152" key="GridCell.Tab.0.center/0.25.1920.981@0.25.1920.981" timestamp="1624135496280" />
+    <state width="886" height="221" key="GridCell.Tab.0.center/0.25.1920.982@0.25.1920.982" timestamp="1621646329548" />
+    <state width="858" height="229" key="GridCell.Tab.0.center/0.25.1920.984@0.25.1920.984" timestamp="1621914743819" />
+    <state width="973" height="172" key="GridCell.Tab.0.left" timestamp="1624853749857">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="1878" height="172" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624853675607" />
+    <state width="1878" height="218" key="GridCell.Tab.0.left/0.0.1920.1080@0.25.1920.970" timestamp="1622335154077" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1620265454492" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.989@0.23.1920.989" timestamp="1620276111855" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1620275976274" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1620274437952" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1620275441741" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.995@0.23.1920.995" timestamp="1620275888117" />
+    <state width="906" height="254" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1620275011286" />
+    <state width="973" height="172" key="GridCell.Tab.0.left/0.25.1920.970@0.25.1920.970" timestamp="1624853749857" />
+    <state width="900" height="127" key="GridCell.Tab.0.left/0.25.1920.971@0.25.1920.971" timestamp="1624498757410" />
+    <state width="919" height="152" key="GridCell.Tab.0.left/0.25.1920.973@0.25.1920.973" timestamp="1624135365033" />
+    <state width="919" height="152" key="GridCell.Tab.0.left/0.25.1920.975@0.25.1920.975" timestamp="1624135412119" />
+    <state width="893" height="240" key="GridCell.Tab.0.left/0.25.1920.977@0.25.1920.977" timestamp="1622516720434" />
+    <state width="919" height="152" key="GridCell.Tab.0.left/0.25.1920.978@0.25.1920.978" timestamp="1624135441848" />
+    <state width="858" height="229" key="GridCell.Tab.0.left/0.25.1920.979@0.25.1920.979" timestamp="1621913509992" />
+    <state width="919" height="152" key="GridCell.Tab.0.left/0.25.1920.981@0.25.1920.981" timestamp="1624135496280" />
+    <state width="886" height="221" key="GridCell.Tab.0.left/0.25.1920.982@0.25.1920.982" timestamp="1621646329547" />
+    <state width="858" height="229" key="GridCell.Tab.0.left/0.25.1920.984@0.25.1920.984" timestamp="1621914743819" />
+    <state width="973" height="172" key="GridCell.Tab.0.right" timestamp="1624853749857">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state width="1878" height="172" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624853675608" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1620265454493" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.989@0.23.1920.989" timestamp="1620276111855" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1620275976275" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1620274437953" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1620275441741" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.995@0.23.1920.995" timestamp="1620275888120" />
+    <state width="906" height="254" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1620275011287" />
+    <state width="973" height="172" key="GridCell.Tab.0.right/0.25.1920.970@0.25.1920.970" timestamp="1624853749857" />
+    <state width="900" height="127" key="GridCell.Tab.0.right/0.25.1920.971@0.25.1920.971" timestamp="1624498757412" />
+    <state width="919" height="152" key="GridCell.Tab.0.right/0.25.1920.973@0.25.1920.973" timestamp="1624135365033" />
+    <state width="919" height="152" key="GridCell.Tab.0.right/0.25.1920.975@0.25.1920.975" timestamp="1624135412121" />
+    <state width="893" height="240" key="GridCell.Tab.0.right/0.25.1920.977@0.25.1920.977" timestamp="1622516720435" />
+    <state width="919" height="152" key="GridCell.Tab.0.right/0.25.1920.978@0.25.1920.978" timestamp="1624135441848" />
+    <state width="858" height="229" key="GridCell.Tab.0.right/0.25.1920.979@0.25.1920.979" timestamp="1621913509992" />
+    <state width="919" height="152" key="GridCell.Tab.0.right/0.25.1920.981@0.25.1920.981" timestamp="1624135496280" />
+    <state width="886" height="221" key="GridCell.Tab.0.right/0.25.1920.982@0.25.1920.982" timestamp="1621646329548" />
+    <state width="858" height="229" key="GridCell.Tab.0.right/0.25.1920.984@0.25.1920.984" timestamp="1621914743820" />
+    <state width="973" height="135" key="GridCell.Tab.1.bottom" timestamp="1624388663722">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="973" height="135" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1624388663722" />
+    <state width="973" height="135" key="GridCell.Tab.1.bottom/0.25.1920.970@0.25.1920.970" timestamp="1624382267978" />
+    <state width="1878" height="163" key="GridCell.Tab.1.bottom/0.25.1920.971@0.25.1920.971" timestamp="1621915546496" />
+    <state width="869" height="296" key="GridCell.Tab.1.bottom/0.25.1920.973@0.25.1920.973" timestamp="1621179969460" />
+    <state width="953" height="163" key="GridCell.Tab.1.bottom/0.25.1920.975@0.25.1920.975" timestamp="1621181480376" />
+    <state width="953" height="163" key="GridCell.Tab.1.bottom/0.25.1920.981@0.25.1920.981" timestamp="1621623088411" />
+    <state width="1878" height="163" key="GridCell.Tab.1.bottom/0.25.1920.982@0.25.1920.982" timestamp="1621623204252" />
+    <state width="973" height="135" key="GridCell.Tab.1.center" timestamp="1624388663721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="973" height="135" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1624388663720" />
+    <state width="973" height="135" key="GridCell.Tab.1.center/0.25.1920.970@0.25.1920.970" timestamp="1624382267978" />
+    <state width="1878" height="163" key="GridCell.Tab.1.center/0.25.1920.971@0.25.1920.971" timestamp="1621915546494" />
+    <state width="869" height="296" key="GridCell.Tab.1.center/0.25.1920.973@0.25.1920.973" timestamp="1621179969460" />
+    <state width="953" height="163" key="GridCell.Tab.1.center/0.25.1920.975@0.25.1920.975" timestamp="1621181480376" />
+    <state width="953" height="163" key="GridCell.Tab.1.center/0.25.1920.981@0.25.1920.981" timestamp="1621623088410" />
+    <state width="1878" height="163" key="GridCell.Tab.1.center/0.25.1920.982@0.25.1920.982" timestamp="1621623204251" />
+    <state width="973" height="135" key="GridCell.Tab.1.left" timestamp="1624388663720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="973" height="135" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1624388663720" />
+    <state width="973" height="135" key="GridCell.Tab.1.left/0.25.1920.970@0.25.1920.970" timestamp="1624382267978" />
+    <state width="1878" height="163" key="GridCell.Tab.1.left/0.25.1920.971@0.25.1920.971" timestamp="1621915546494" />
+    <state width="869" height="296" key="GridCell.Tab.1.left/0.25.1920.973@0.25.1920.973" timestamp="1621179969459" />
+    <state width="953" height="163" key="GridCell.Tab.1.left/0.25.1920.975@0.25.1920.975" timestamp="1621181480375" />
+    <state width="953" height="163" key="GridCell.Tab.1.left/0.25.1920.981@0.25.1920.981" timestamp="1621623088409" />
+    <state width="1878" height="163" key="GridCell.Tab.1.left/0.25.1920.982@0.25.1920.982" timestamp="1621623204251" />
+    <state width="973" height="135" key="GridCell.Tab.1.right" timestamp="1624388663721">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="973" height="135" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1624388663721" />
+    <state width="973" height="135" key="GridCell.Tab.1.right/0.25.1920.970@0.25.1920.970" timestamp="1624382267978" />
+    <state width="1878" height="163" key="GridCell.Tab.1.right/0.25.1920.971@0.25.1920.971" timestamp="1621915546494" />
+    <state width="869" height="296" key="GridCell.Tab.1.right/0.25.1920.973@0.25.1920.973" timestamp="1621179969460" />
+    <state width="953" height="163" key="GridCell.Tab.1.right/0.25.1920.975@0.25.1920.975" timestamp="1621181480376" />
+    <state width="953" height="163" key="GridCell.Tab.1.right/0.25.1920.981@0.25.1920.981" timestamp="1621623088411" />
+    <state width="1878" height="163" key="GridCell.Tab.1.right/0.25.1920.982@0.25.1920.982" timestamp="1621623204251" />
+    <state x="33" y="168" key="SettingsEditor" timestamp="1624902819306">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="33" y="168" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1624902819306" />
+    <state x="339" y="156" key="SettingsEditor/0.23.1920.992@0.23.1920.992" timestamp="1619836112904" />
+    <state x="33" y="176" key="SettingsEditor/0.25.1920.970@0.25.1920.970" timestamp="1624853163287" />
+    <state x="631" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1622382401857">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="630" y="352" key="com.intellij.ide.util.TipDialog/0.23.1920.986@0.23.1920.986" timestamp="1620234930678" />
+    <state x="630" y="353" key="com.intellij.ide.util.TipDialog/0.23.1920.989@0.23.1920.989" timestamp="1620082732359" />
+    <state x="473" y="295" key="com.intellij.ide.util.TipDialog/0.25.1440.809@0.25.1440.809" timestamp="1620702734009" />
+    <state x="473" y="297" key="com.intellij.ide.util.TipDialog/0.25.1440.814@0.25.1440.814" timestamp="1621907053933" />
+    <state x="631" y="349" key="com.intellij.ide.util.TipDialog/0.25.1920.970@0.25.1920.970" timestamp="1622382401857" />
+    <state x="631" y="348" key="com.intellij.ide.util.TipDialog/0.25.1920.971@0.25.1920.971" timestamp="1621706750970" />
+    <state x="631" y="350" key="com.intellij.ide.util.TipDialog/0.25.1920.973@0.25.1920.973" timestamp="1621618671420" />
+    <state x="281" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624732426079">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="281" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1920.970@0.25.1920.970" timestamp="1624732426079" />
+    <state x="395" y="309" key="export.test.results" timestamp="1622341184859">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="395" y="309" key="export.test.results/0.25.1920.970@0.25.1920.970" timestamp="1622341184858" />
+    <state x="596" y="397" width="657" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1619835614282">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="596" y="397" width="657" height="279" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1920.992@0.23.1920.992" timestamp="1619835614282" />
+    <state x="245" y="217" key="run.anything.popup" timestamp="1622341471460">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="245" y="217" key="run.anything.popup/0.25.1920.970@0.25.1920.970" timestamp="1622341471460" />
+    <state x="430" y="184" key="scopes" timestamp="1619835892303">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="430" y="184" key="scopes/0.23.1920.992@0.23.1920.992" timestamp="1619835892303" />
+    <state x="495" y="248" width="670" height="662" key="search.everywhere.popup" timestamp="1623387553816">
+      <screen x="0" y="25" width="1920" height="970" />
+    </state>
+    <state x="495" y="248" width="670" height="738" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1623041072770" />
+    <state x="495" y="251" width="670" height="676" key="search.everywhere.popup/0.23.1920.992@0.23.1920.992" timestamp="1619836222139" />
+    <state x="495" y="248" width="670" height="662" key="search.everywhere.popup/0.25.1920.970@0.25.1920.970" timestamp="1623387553816" />
+    <state x="495" y="248" width="670" height="663" key="search.everywhere.popup/0.25.1920.971@0.25.1920.971" timestamp="1623039638955" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/seleniumprojectb22$TestNG_Intro.ic" NAME="TestNG_Intro Coverage Results" MODIFIED="1622341436382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cybertek.tests.day6_testing_into_dropdowns.*</FILTER>
+    </SUITE>
+  </component>
+</project>
